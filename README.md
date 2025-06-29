@@ -78,3 +78,9 @@ Interface Preview Description:
 3.Historical consumption trends.
 
 4.Device-level analytics, and interactive charts.
+
+
+https://github.com/nishika23-9/PowerBI-Dashboard/blob/main/Overview.png
+https://github.com/nishika23-9/PowerBI-Dashboard/blob/main/Electricity.png
+https://github.com/nishika23-9/PowerBI-Dashboard/blob/main/Water.png
+https://github.com/nishika23-9/PowerBI-Dashboard/blob/main/Gas.png
